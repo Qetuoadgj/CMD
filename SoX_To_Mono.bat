@@ -55,8 +55,8 @@ if /i {%lang%}=={0419} set "L_Default=По умолчанию"
 	TITLE %Name%
 	if /i {%lang%}=={0419} (echo.Выбор действия:) else (echo.Action select:)
 	echo.
-	if /i {%lang%}=={0419} (echo. ^(1^) - Моно) else (echo. ^(1^) - Mono)
-	if /i {%lang%}=={0419} (echo. ^(2^) - Стерео) else (echo. ^(2^) - Stereo)
+	if /i {%lang%}=={0419} (echo. ^(1^) - Mono) else (echo. ^(1^) - Mono)
+	if /i {%lang%}=={0419} (echo. ^(2^) - Stereo) else (echo. ^(2^) - Stereo)
 	echo.
 	if /i {%lang%}=={0419} (echo. ^(3^) - Выйти) else (echo. ^(3^) - Exit)
 	echo.
@@ -85,7 +85,7 @@ if /i {%lang%}=={0419} set "L_Default=По умолчанию"
 	echo.
 	set "ANSWER="
 	if /i {%lang%}=={0419} (SET /P "ANSWER=Укажите битрейт результата: ") else (SET /P "ANSWER=Choose output bitrate: ")
-	if /i {%ANSWER%}=={} (set OUTPUT_BITRATE=%L_Default%) else (set OUTPUT_BITRATE=%ANSWER%)
+	if /i {%ANSWER%}=={} (set OUTPUT_BITRATE=%L_Default%) else (set OUTPUT_BITRATE=%ANSWER%k)
 	if /i {%ANSWER%}=={r} goto :Set_Input_Volume
 	goto :Set_Output_Sample_Rate
 
@@ -129,6 +129,8 @@ if /i {%lang%}=={0419} set "L_Default=По умолчанию"
 	for %%F in (%1) do (
 		cd /d "%%~dpF"
 		set "OUTPUT_DIR=mono"
+		REM if not "%INPUT_VOLUME%" == "%L_Default%" set "OUTPUT_DIR=!OUTPUT_DIR! x%INPUT_VOLUME%"
+		REM if not "%OUTPUT_BITRATE%" == "%L_Default%" set "OUTPUT_DIR=!OUTPUT_DIR! %OUTPUT_BITRATE%kHz"
 		if exist "!OUTPUT_DIR!\nul" rd "!OUTPUT_DIR!" /q /s
 		md "!OUTPUT_DIR!"
 	)
@@ -143,12 +145,12 @@ if /i {%lang%}=={0419} set "L_Default=По умолчанию"
 		if not "%INPUT_VOLUME%" == "%L_Default%" set command=!command! -v%INPUT_VOLUME%
 		if not "%%~nxF" == "" set command=!command! "%%~nxF"
 		if not "%OUTPUT_CHANNELS%" == "%L_Default%" set command=!command! -c%OUTPUT_CHANNELS%
-		if not "%OUTPUT_FORMAT%" == "%L_Default%" set command=!command! -t!OUTPUT_FORMAT!
+		if not "!OUTPUT_FORMAT!" == "%L_Default%" set command=!command! -t!OUTPUT_FORMAT!
 		if not "%OUTPUT_BITRATE%" == "%L_Default%" set command=!command! -r%OUTPUT_BITRATE%
 		if not "%OUTPUT_SAMPLE_RATE%" == "%L_Default%" set command=!command! -C%OUTPUT_SAMPLE_RATE%
 		set command=!command! "!OUTPUT_DIR!\%%~nF.!OUTPUT_FORMAT!"
 		"%SOX%" !command!
-		echo.%%~nF.%OUTPUT_FORMAT%
+		echo.%%~nF.!OUTPUT_FORMAT!
 	)
 	setlocal DisableDelayedExpansion
 
