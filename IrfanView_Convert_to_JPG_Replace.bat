@@ -130,7 +130,7 @@ for %%F in (%*) do (
 			cd /d "%%~dpF"
 			REM set "Out_Dir=!cd!\IrfanView_JPG\"
 			set "Out_Dir=!cd!"
-			if exist "!Out_Dir!" rd "!Out_Dir!" /q
+			REM if exist "!Out_Dir!" rd "!Out_Dir!" /q
 		)
 		echo.!i!. %%~nxF
 		set "i_file=%%~nxF"
