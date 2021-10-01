@@ -1,325 +1,325 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1,UKR Live HD
 #EXTGRP:Украина
-#EXTINF:,UKR Live HD
 http://95.67.12.149:9005
+#EXTINF:-1,UA TV
 #EXTGRP:Украина
-#EXTINF:,UA TV
 http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,I-UA TV HD
 #EXTGRP:Украина
-#EXTINF:,I-UA TV HD
 http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:-1,UA:Перший
 #EXTGRP:Украина
-#EXTINF:,UA:Перший
 http://95.67.12.189:10056
+#EXTINF:-1,Первый независимый
 #EXTGRP:Украина
-#EXTINF:,Первый независимый
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,Прямый
 #EXTGRP:Украина
-#EXTINF:,Прямый
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,НТА HD (Львів)
 #EXTGRP:Украина
-#EXTINF:,НТА HD (Львів)
 http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1,СТБ
 #EXTGRP:Украина
-#EXTINF:,СТБ
 http://51.15.176.84/hls/stb-online/index.m3u8
+#EXTINF:-1,ICTV UA
 #EXTGRP:Украина
-#EXTINF:,ICTV UA
 http://46.63.0.9:8001/ictv
+#EXTINF:-1,Новий канал
 #EXTGRP:Украина
-#EXTINF:,Новий канал
 http://51.15.176.84/hls/novy-online/index.m3u8
+#EXTINF:-1,Уніан
 #EXTGRP:Украина
-#EXTINF:,Уніан
 http://193.33.39.107:8088/unian/tracks-v1a1/mono.m3u8
+#EXTINF:-1,К1
 #EXTGRP:Украина
-#EXTINF:,К1
 http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,24 канал HD
 #EXTGRP:Украина
-#EXTINF:,24 канал HD
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
+#EXTINF:-1,HTH
 #EXTGRP:Украина
-#EXTINF:,HTH
 http://lb1.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1,Правда ТУТ
 #EXTGRP:Украина
-#EXTINF:,Правда ТУТ
 http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,ЧП.INFO
 #EXTGRP:Украина
-#EXTINF:,ЧП.INFO
 http://lb1.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:-1,Інший HD
 #EXTGRP:Украина
-#EXTINF:,Інший HD
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1,TIM HD
 #EXTGRP:Украина
-#EXTINF:,TIM HD
 http://194.242.100.24:6666
+#EXTINF:-1,CK 1 HD
 #EXTGRP:Украина
-#EXTINF:,CK 1 HD
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1,TVA
 #EXTGRP:Украина
-#EXTINF:,TVA
 http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,BTB+
 #EXTGRP:Украина
-#EXTINF:,BTB+
 http://video.vtvplus.com.ua:81/hls/online/index.m3u8
+#EXTINF:-1,XSport+
 #EXTGRP:Украина
-#EXTINF:,XSport+
 http://95.67.12.117:9005
+#EXTINF:-1,Трофей
 #EXTGRP:Украина
-#EXTINF:,Трофей
 http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1,Трофей HD
 #EXTGRP:Украина
-#EXTINF:,Трофей HD
 http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1,Здоровье
 #EXTGRP:Украина
-#EXTINF:,Здоровье
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1,Киев ТВ HD
 #EXTGRP:Украина
-#EXTINF:,Киев ТВ HD
 http://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,Донбас Online HD
 #EXTGRP:Украина
-#EXTINF:,Донбас Online HD
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1,Донеччина.TV
 #EXTGRP:Украина
-#EXTINF:,Донеччина.TV
 http://playlist.hmara.tv/4a8a78be/698c36a192c0bf8280c41f5cd9c4ab2dd4c19cc8.m3u8
+#EXTINF:-1,Сміла ТВ (Чернігів) HD
 #EXTGRP:Украина
-#EXTINF:,Сміла ТВ (Чернігів) HD
 http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1,Plus
 #EXTGRP:Украина
-#EXTINF:,Plus
 http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+#EXTINF:-1,Прайм
 #EXTGRP:Украина
-#EXTINF:,Прайм
 http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
+#EXTINF:-1,iPT
 #EXTGRP:Украина
-#EXTINF:,iPT
 http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1,ОТВ
 #EXTGRP:Украина
-#EXTINF:,ОТВ
 http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1,Первый Городской HD (Кривий Ріг)
 #EXTGRP:Украина
-#EXTINF:,Первый Городской HD (Кривий Ріг)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1,Первый Городской (Одесса)
 #EXTGRP:Украина
-#EXTINF:,Первый Городской (Одесса)
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Одеса Int.
 #EXTGRP:Украина
-#EXTINF:,Одеса Int.
 http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1,Третій цифровий (Одеса)
 #EXTGRP:Украина
-#EXTINF:,Третій цифровий (Одеса)
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,A1 HD
 #EXTGRP:Украина
-#EXTINF:,A1 HD
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,G TV(Одеса)
 #EXTGRP:Украина
-#EXTINF:,G TV(Одеса)
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1,Думская ТВ HD
 #EXTGRP:Украина
-#EXTINF:,Думская ТВ HD
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,Renome
 #EXTGRP:Украина
-#EXTINF:,Renome
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,ТРК Круг
 #EXTGRP:Украина
-#EXTINF:,ТРК Круг
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1,Южная Волна HD
 #EXTGRP:Украина
-#EXTINF:,Южная Волна HD
 http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+#EXTINF:-1,7 Канал HD (Одеса)
 #EXTGRP:Украина
-#EXTINF:,7 Канал HD (Одеса)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,Odessa Fashion HD
 #EXTGRP:Украина
-#EXTINF:,Odessa Fashion HD
 http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:-1,ТIС (Одесса)
 #EXTGRP:Украина
-#EXTINF:,ТIС (Одесса)
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1,іTV
 #EXTGRP:Украина
-#EXTINF:,іTV
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1,Izmail
 #EXTGRP:Украина
-#EXTINF:,Izmail
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1,Kratu
 #EXTGRP:Украина
-#EXTINF:,Kratu
 http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+#EXTINF:-1,ЯТБ
 #EXTGRP:Украина
-#EXTINF:,ЯТБ
 http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:-1,TV8
 #EXTGRP:Украина
-#EXTINF:,TV8
 http://cdn10.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8
+#EXTINF:-1,Simon
 #EXTGRP:Украина
-#EXTINF:,Simon
 http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1,Тернопіль 1 HD
 #EXTGRP:Украина
-#EXTINF:,Тернопіль 1 HD
 http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1,Дніпро TV
 #EXTGRP:Украина
-#EXTINF:,Дніпро TV
 http://playlist.hmara.tv/4a8a78be/b45a4653c36816b0a3f48b9b106542e737af7bc6.m3u8
+#EXTINF:-1,Правда ТУТ HD
 #EXTGRP:Украина
-#EXTINF:,Правда ТУТ HD
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,34 Канал
 #EXTGRP:Украина
-#EXTINF:,34 Канал
 http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1,TV 7+
 #EXTGRP:Украина
-#EXTINF:,TV 7+
 http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1,UA TV HD
 #EXTGRP:Украина
-#EXTINF:,UA TV HD
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,TV5 (Запоріжжя)
 #EXTGRP:Украина
-#EXTINF:,TV5 (Запоріжжя)
 https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1,Чернівецький Промінь HD
 #EXTGRP:Украина
-#EXTINF:,Чернівецький Промінь HD
 http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1,Балта ТВ
 #EXTGRP:Украина
-#EXTINF:,Балта ТВ
 http://194.50.51.34/playlist.m3u8
+#EXTINF:-1,Орбіта ТВ
 #EXTGRP:Украина
-#EXTINF:,Орбіта ТВ
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1,ВТВ-Плюс
 #EXTGRP:Украина
-#EXTINF:,ВТВ-Плюс
 http://iptv.rubintele.com:8552/play/a007$OPT:network-caching=1000
+#EXTINF:-1,TV 5
 #EXTGRP:Украина
-#EXTINF:,TV 5
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1,Снятин ТВ HD
 #EXTGRP:Украина
-#EXTINF:,Снятин ТВ HD
 http://93.170.188.5:3742/index.m3u8
+#EXTINF:-1,Обоз ТВ
 #EXTGRP:Украина
-#EXTINF:,Обоз ТВ
 https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:-1,Квартал ТВ
 #EXTGRP:Украина
-#EXTINF:,Квартал ТВ
 http://87.247.44.24:80/btv/SWM/Kvartal_tv/Kvartal_tv.m3u8
+#EXTINF:-1,Квартал ТВ HD
 #EXTGRP:Украина
-#EXTINF:,Квартал ТВ HD
 http://87.247.44.24:80/btv/SWM/Kvartal_tv/Kvartal_tv_1080p_5000kbps.m3u8
+#EXTINF:-1,Киев ТВ
 #EXTGRP:Украина
-#EXTINF:,Киев ТВ
 https://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv2.sdp/playlist.m3u8
+#EXTINF:-1,Первый независимый+
 #EXTGRP:Украина
-#EXTINF:,Первый независимый+
 https://live.pnk.tv/hls/pnk/hd.m3u8
+#EXTINF:-1,Первый республиканский
 #EXTGRP:Донбасс
-#EXTINF:,Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1,Новороссия ТВ
 #EXTGRP:Донбасс
-#EXTINF:,Новороссия ТВ
 http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:-1,Оплoт HD
 #EXTGRP:Донбасс
-#EXTINF:,Оплoт HD
 http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1,Оплoт 2 HD
 #EXTGRP:Донбасс
-#EXTINF:,Оплoт 2 HD
 http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1,ЮНИОН
 #EXTGRP:Донбасс
-#EXTINF:,ЮНИОН
 http://ott.inmart.tv:8081/35/index.m3u8
+#EXTINF:-1,6 канал Горловка
 #EXTGRP:Донбасс
-#EXTINF:,6 канал Горловка
 http://ott.inmart.tv:8081/223/index.m3u8
+#EXTINF:-1,Известия
 #EXTGRP:Россия
-#EXTINF:,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Россия 24 HD
 #EXTGRP:Россия
-#EXTINF:,Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия 1 HD
 #EXTGRP:Россия
-#EXTINF:,Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия РТР
 #EXTGRP:Россия
-#EXTINF:,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:-1,Мир 24 HD
 #EXTGRP:Россия
-#EXTINF:,Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир Premium
 #EXTGRP:Россия
-#EXTINF:,Мир Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Мир HD
 #EXTGRP:Россия
-#EXTINF:,Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир (+4)
 #EXTGRP:Россия
-#EXTINF:,Мир (+4)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1,Астрахань 24
 #EXTGRP:Россия
-#EXTINF:,Астрахань 24
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1,Мордовия 24
 #EXTGRP:Россия
-#EXTINF:,Мордовия 24
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1,Моя Удмуртия
 #EXTGRP:Россия
-#EXTINF:,Моя Удмуртия
 https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1,ТВР 24
 #EXTGRP:Россия
-#EXTINF:,ТВР 24
 https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:-1,Губерния Самарская
 #EXTGRP:Россия
-#EXTINF:,Губерния Самарская
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1,Мир Белогорья
 #EXTGRP:Россия
-#EXTINF:,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,МТВ
 #EXTGRP:Россия
-#EXTINF:,МТВ
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1,Родной канал HD
 #EXTGRP:Россия
-#EXTINF:,Родной канал HD
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
+#EXTINF:-1,Новый мир
 #EXTGRP:Россия
-#EXTINF:,Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1,Известия ТВ HD
 #EXTGRP:Россия
-#EXTINF:,Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,Известия ТВ FHD
 #EXTGRP:Россия
-#EXTINF:,Известия ТВ FHD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Беларусь 24
 #EXTGRP:Белоруссия
-#EXTINF:,Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1,Беларусь 4
 #EXTGRP:Белоруссия
-#EXTINF:,Беларусь 4
 http://95.46.208.8:26258/belarus4
+#EXTINF:-1,Белсат ТВ
 #EXTGRP:Белоруссия
-#EXTINF:,Белсат ТВ
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1,СТВ
 #EXTGRP:Белоруссия
-#EXTINF:,СТВ
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1,ОНТ
 #EXTGRP:Белоруссия
-#EXTINF:,ОНТ
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,БелРос
 #EXTGRP:Белоруссия
-#EXTINF:,БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1,8 канал (Витебск) HD
 #EXTGRP:Белоруссия
-#EXTINF:,8 канал (Витебск) HD
 http://95.46.208.8:24433/art
+#EXTINF:-1,Наше ТВ (Витебск)
 #EXTGRP:Белоруссия
-#EXTINF:,Наше ТВ (Витебск)
 http://95.46.208.8:26259/nashe
+#EXTINF:-1,Publica TV
 #EXTGRP:Молдова
-#EXTINF:,Publica TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1,Хабар 24
 #EXTGRP:Казахстан
-#EXTINF:,Хабар 24
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1,Хабар 24
 #EXTGRP:Казахстан
-#EXTINF:,Хабар 24
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1,Новое телевидение
 #EXTGRP:Казахстан
-#EXTINF:,Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,Армения 1
 #EXTGRP:Армения
-#EXTINF:,Армения 1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
