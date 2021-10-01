@@ -1,0 +1,217 @@
+﻿#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\MTV-Ukraine.png",UKR Live HD
+http://95.67.12.149:9005
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\UA (2).png",UA TV
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина",I-UA TV HD
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:-1 group-title="Украина",UA:Перший
+http://95.67.12.189:10056
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Первый национальный (Украина.png" tvg-name="229",Первый независимый
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",Прямый
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\НТА (2).png" tvg-name="796",НТА HD (Львів)
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\СТБ.png" tvg-name="1054",СТБ
+http://51.15.176.84/hls/stb-online/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ICTV (2).png" tvg-name="385",ICTV UA
+http://46.63.0.9:8001/ictv
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Новий канал.png",Новий канал
+http://51.15.176.84/hls/novy-online/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Уніан.png",Уніан
+http://193.33.39.107:8088/unian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\К1.png" tvg-name="1045",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\24 Беларусь.png" tvg-name="374",24 канал HD
+http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Украина",HTH
+http://lb1.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Правда тут.png" tvg-name="846",Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ЧП.INFO.png" tvg-name="288",ЧП.INFO
+http://lb1.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:-1 group-title="Украина",Інший HD
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\TIM TV ПРИЛУКИ.png",TIM HD
+http://194.242.100.24:6666
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Nick Jr..png",CK 1 HD
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\TV ARM RU.png",TVA
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Украина",BTB+
+http://video.vtvplus.com.ua:81/hls/online/index.m3u8
+#EXTINF:-1 group-title="Украина",XSport+
+http://95.67.12.117:9005
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Трофей.png",Трофей
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Трофей.png",Трофей HD
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Здоровье.png" tvg-name="164",Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Киев ТВ (2).png" tvg-name="1058",Киев ТВ HD
+http://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ДОНБАС ТВ (2).png",Донбас Online HD
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Юнион (Донецк).png",Донеччина.TV
+http://playlist.hmara.tv/4a8a78be/698c36a192c0bf8280c41f5cd9c4ab2dd4c19cc8.m3u8
+#EXTINF:-1 group-title="Украина",Сміла ТВ (Чернігів) HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\PLUS.png" tvg-name="879",Plus
+http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Право ТВ.png",Прайм
+http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\VIP TV HD.png",iPT
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ОТВ.png" tvg-name="144",ОТВ
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Первый городской Одесса.png" tvg-name="944",Первый Городской HD (Кривий Ріг)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Первый городской Одесса.png" tvg-name="944",Первый Городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\АТВ Одесса.png",Одеса Int.
+http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Третий Цифровой.png",Третій цифровий (Одеса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украина",A1 HD
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Shopping TV.png" tvg-name="55",G TV(Одеса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ДУМСКАЯ ТВ (2).png",Думская ТВ HD
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Renome.png",Renome
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ТРК КРУГ ОДЕССА.png" tvg-name="1061",ТРК Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ЮЖНАЯ ВОЛНА ОДЕССА.png",Южная Волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\7 канал (Латвия).png",7 Канал HD (Одеса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Nickelodeon [us].png",Odessa Fashion HD
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:-1 group-title="Украина",ТIС (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1 group-title="Украина",іTV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Izmail
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\KRATU ХЕРСОН.png",Kratu
+http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+#EXTINF:-1 group-title="Украина",ЯТБ
+http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\TV8.png",TV8
+http://cdn10.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Simon.png",Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\TV 4 Тернополь.png",Тернопіль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 group-title="Украина",Дніпро TV
+http://playlist.hmara.tv/4a8a78be/b45a4653c36816b0a3f48b9b106542e737af7bc6.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ПРАВДА ТУТ (2).png" tvg-name="846",Правда ТУТ HD
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\34 Канал Черновцы.png" tvg-name="1035",34 Канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\CCTV 4.png",TV 7+
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\UA Крим.png",UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\TV5 Monde Europe.png" tvg-name="125",TV5 (Запоріжжя)
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Discovery Channel черный.png",Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\1 балтийский музыкальный.png",Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\НТК Орбита.png",Орбіта ТВ
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\ВТВ v.1.png",ВТВ-Плюс
+http://iptv.rubintele.com:8552/play/a007$OPT:network-caching=1000
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Sport TV 5.png" tvg-name="125",TV 5
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Снятин ТВ HD
+http://93.170.188.5:3742/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Всегда с тобой.png",Обоз ТВ
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Квартал ТВjpg.jpg",Квартал ТВ
+http://87.247.44.24:80/btv/SWM/Kvartal_tv/Kvartal_tv.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Квартал ТВjpg.jpg",Квартал ТВ HD
+http://87.247.44.24:80/btv/SWM/Kvartal_tv/Kvartal_tv_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Киев ТВ.png" tvg-name="1058",Киев ТВ
+https://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-logo="..\Channel\Logo\Первый национальный (Украина.png" tvg-name="229",Первый независимый+
+https://live.pnk.tv/hls/pnk/hd.m3u8
+#EXTINF:-1 group-title="Донбасс" tvg-logo="..\Channel\Logo\Первый Республиканский.png" tvg-name="946",Первый республиканский
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1 group-title="Донбасс",Новороссия ТВ
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:-1 group-title="Донбасс" tvg-logo="..\Channel\Logo\Автоплюс.png",Оплoт HD
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1 group-title="Донбасс" tvg-logo="..\Channel\Logo\Автоплюс.png",Оплoт 2 HD
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 group-title="Донбасс",ЮНИОН
+http://ott.inmart.tv:8081/35/index.m3u8
+#EXTINF:-1 group-title="Донбасс",6 канал Горловка
+http://ott.inmart.tv:8081/223/index.m3u8
+#EXTINF:-1 group-title="Россия",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Россия 24.png" tvg-name="247",Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Россия 1 (+2).png" tvg-name="245",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Россия РТР.png" tvg-name="806",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Мир 24.png" tvg-name="887",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Мир Сериала.png",Мир Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Мир HD.png" tvg-name="739",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Мир.png" tvg-name="194" tvg-shift="-8",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Астро ТВ.png",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\ЮМОР BOX (2).png",Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Моя планета.png",Моя Удмуртия
+https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Россия",ТВР 24
+https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\ТНТ Губерния.png",Губерния Самарская
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\Мир бел..png" tvg-name="979",Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\МТВ бел..png",МТВ
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\ТВ-Центр-Международное.png",Родной канал HD
+https://n1.slavmir.tv/live/slavmir/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="..\Channel\Logo\НОВЫЙ (2).png" tvg-name="370",Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Известия ТВ FHD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Белоруссия" tvg-logo="..\Channel\Logo\Беларусь 24.png" tvg-name="139",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="Белоруссия" tvg-logo="..\Channel\Logo\Беларусь 1.png" tvg-name="139",Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="Белоруссия" tvg-logo="..\Channel\Logo\БЕЛСАТ ТВ.png",Белсат ТВ
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 group-title="Белоруссия" tvg-logo="..\Channel\Logo\СТВ.png" tvg-name="975",СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="Белоруссия" tvg-logo="..\Channel\Logo\ОНТ.png" tvg-name="1007",ОНТ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Белоруссия" tvg-logo="..\Channel\Logo\Белсат.png",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Белоруссия" tvg-logo="..\Channel\Logo\8 Канал (Беларусь).png" tvg-name="9",8 канал (Витебск) HD
+http://95.46.208.8:24433/art
+#EXTINF:-1 group-title="Белоруссия" tvg-logo="..\Channel\Logo\Наше ТВ.png" tvg-name="962",Наше ТВ (Витебск)
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 group-title="Молдова" tvg-logo="..\Channel\Logo\Publika.png",Publica TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="..\Channel\Logo\Хабар.png",Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="..\Channel\Logo\Хабар.png",Хабар 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="..\Channel\Logo\КИНОЗАЛ Новое КИНО.png" tvg-name="209",Новое телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="..\Channel\Logo\VH1.png" tvg-name="571",Армения 1
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
