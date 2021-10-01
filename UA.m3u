@@ -210,22 +210,22 @@ https://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv2.sdp/playlist.m3u8
 #EXTGRP:Украина
 https://live.pnk.tv/hls/pnk/hd.m3u8
 #EXTINF:-1,Первый республиканский
-#EXTGRP:Донбасс
+#EXTGRP:ОРДЛО
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1,Новороссия ТВ
-#EXTGRP:Донбасс
+#EXTGRP:ОРДЛО
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1,Оплoт HD
-#EXTGRP:Донбасс
+#EXTGRP:ОРДЛО
 http://ott.inmart.tv:8081/54/index.m3u8
 #EXTINF:-1,Оплoт 2 HD
-#EXTGRP:Донбасс
+#EXTGRP:ОРДЛО
 http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:-1,ЮНИОН
-#EXTGRP:Донбасс
+#EXTGRP:ОРДЛО
 http://ott.inmart.tv:8081/35/index.m3u8
 #EXTINF:-1,6 канал Горловка
-#EXTGRP:Донбасс
+#EXTGRP:ОРДЛО
 http://ott.inmart.tv:8081/223/index.m3u8
 #EXTINF:-1,Известия
 #EXTGRP:Россия
